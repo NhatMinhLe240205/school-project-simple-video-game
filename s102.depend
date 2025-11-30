@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1732280956 source:z:\init dev 2\projet s102\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1729577316 source:z:\init dev 2\projet s102\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1733763271 source:z:\init dev 2\projet s102\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+
+1733763271 source:z:\init dev 2\projet s102\s102\src\personnage.cpp
+	"Personnage.h"
+
+1732277356 source:c:\users\nle5\downloads\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1733759942 source:c:\users\nle5\downloads\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+
+1729573716 source:c:\users\nle5\downloads\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1733759670 source:c:\users\nle5\downloads\s102\src\personnage.cpp
+	"Personnage.h"
+
+1734367402 source:c:\users\nle5\downloads\s102\src\main_test.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"Dictionnaire.h"
+	"tuile.h"
+
+1734367421 source:c:\users\nle5\downloads\s102\src\tuile.cpp
+	"tuile.h"
+
+1734368613 source:c:\users\nle5\downloads\s102\src\dictionnaire.cpp
+	<iostream>
+	<fstream>
+	"Dictionnaire.h"
+
+1732273756 source:z:\s102\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1729566516 source:z:\s102\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1734357660 source:z:\s102\s102\src\tuile.cpp
+	"Tuile.h"
+	<iostream>
+
+1736445840 source:z:\s102\s102\src\dictionnaire.cpp
+	"Dictionnaire.h"
+	<iostream>
+	<fstream>
+
+1736529670 source:z:\s102\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Tuile.h"
+	"Dictionnaire.h"
+	"Objet.h"
+	"Niveau.h"
+
+1736529802 source:z:\s102\s102\src\objet.cpp
+	"Objet.h"
+
+1736411438 source:z:\s102\s102\src\personnage.cpp
+	"Personnage.h"
+
+1737553239 source:z:\s102\s102\src\niveau.cpp
+	"Niveau.h"
+	<iostream>
+	<fstream>
+
